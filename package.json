@@ -1,10 +1,21 @@
 {
   "name": "mern-starter-app",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/oc-anthony/mern-starter.git",
+  "description": "A quick check for your MERN installation",
   "author": "oc-anthony <oc.anthony.ii@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "node",
+    "express",
+    "mongodb",
+    "mern"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oc-anthony/mern-starter.git"
+  },
+  "main": "template.js",
   "dependencies": {
     "@hot-loader/react-dom": "16.13.0",
     "express": "4.17.1",
